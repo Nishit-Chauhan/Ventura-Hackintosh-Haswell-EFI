@@ -1,6 +1,6 @@
 # Ventura-Hackintosh-Haswell-EFI
 
-# Intel Core i5-4670 - Ventura Hackintosh EFI (Opencore 0.8.5)
+# Intel Core i5-4670 - Ventura Hackintosh EFI (Opencore 0.9.4)
 ## Configuration
 
 | Specifications | Details                                                  |
