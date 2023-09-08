@@ -11,6 +11,10 @@
 | Audio          | Realtek ALC892 audio (ALCID=1)            |
 | Boot-Args | -v keepsyms=1 debug=0x100 alcid=1 amfi_get_out_of_my_way=0x1 ipc_control_port_options=0 |
 
+## Note
+- amfi_get_out_of_my_way=0x1 - Add To fix Haswell graphics fix using OCLP
+- ipc_control_port_options=0 - Add to fix crashing issue of some apps(Skype, Whatsapp, Spotify, etc)
+
 ![Screenshot](screenshot.png)
 ## Improvements
 - This version was prepared using OpenCore 0.8.5 for MacOS Ventura.
